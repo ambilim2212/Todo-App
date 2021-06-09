@@ -38,7 +38,7 @@ button{
 }
 .form-control:focus
 {
-    outline: 5px solid #638580;
+    outline: 5px solid grey;
 }
 .input
 {
@@ -46,7 +46,7 @@ button{
 }
 .done
 {
-    background-color: #638580;
+    background-color: grey;
 }
 
 
